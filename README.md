@@ -4,7 +4,7 @@
 
 (gif was cropped, modal will be centered)
 
-This repository is a personal proof of concept for the usage of vue/vue-router/bootstrap-vue and will produce a website showing all channels from the [IPTV](#) repository, rendered using [node-red](https://nodered.org) and [uibuilder](https://flows.nodered.org/node/node-red-contrib-uibuilder); a node-red node that allows building custom websites that interact with node-red.
+This repository is a personal proof of concept for the usage of vue/vue-router/bootstrap-vue and will produce a website showing all channels from the [IPTV](https://github.com/iptv-org/iptv) repository, rendered using [node-red](https://nodered.org) and [uibuilder](https://flows.nodered.org/node/node-red-contrib-uibuilder); a node-red node that allows building custom websites that interact with node-red.
 
 ##### Requirements:
 
