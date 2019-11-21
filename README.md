@@ -17,7 +17,7 @@ This repository is a personal proof of concept for the usage of vue/vue-router/b
 
 - import the `iptv_flow.json` from the `flow` directory into node-red.
 - edit the `change` node under "Set Filename - \*\*edit this\*\*", change the path where you want to store/read the iptv file from.
-- clone this repository into the `.node-red/uibuilder` directory, or copy the individual files manually. The uibuilder node assumes `/tv`, you may need to rename this.
+- clone this repository into `.node-red/uibuilder/tv/src` directory, or copy the individual files manually into that directory. The uibuilder node assumes `/tv`.
 
 
 ![Alt text](./resources/flow.jpg?raw=true "node-red flow")
